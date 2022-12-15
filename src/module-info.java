@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Han
+ *
+ */
+module GestionMagasin {
+}
